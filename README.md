@@ -31,3 +31,11 @@ Once downloaded, extract the `.keras` model file and place it in the project dir
 5. Alternatively, if you want to run the web application:
    ```bash
    python app.py
+
+
+## Contributors
+
+This project is a collaborative effort between the following individuals:
+- Nandhinidevi A T 
+- Safna S 
+
