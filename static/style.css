@@ -1,0 +1,63 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Wrapper for the entire website */
+.website-wrapper {
+    padding: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Larger shadow for the wrapper */
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+/* Main container styling with outline and shadow */
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for the container */
+    text-align: center;
+    width: 300px;
+    outline: 2px solid rgba(0, 0, 0, 0.5); /* Subtle black outline */
+}
+
+/* Styling for the app image */
+.phone-app-image img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15); /* Shadow around the image */
+    outline: 1px solid rgba(0, 0, 0, 0.2); /* Light black outline for the image */
+}
+
+/* Styling for the upload button */
+.upload-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.upload-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05); /* Slightly enlarges the button on hover */
+}
+
+/* Styling for the result text */
+.result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
