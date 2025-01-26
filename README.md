@@ -1,6 +1,6 @@
-# AI Project
+# Detection of Image Recolouring through CNN
 
-This repository contains the code and resources for my AI project.
+This repository contains the code and resources for my project.
 
 ## Files
 
