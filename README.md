@@ -25,7 +25,9 @@ Once downloaded, extract the `.keras` model file and place it in the project dir
    ```bash
    (https://github.com/Nandhinidevi-19/Detection-of-Image-Recolouring-through-CNN.git)
 2. Install the required dependencies from the requirements.txt file:
+   ```bash
    pip install -r requirements.txt
-3. Download the .keras model file and the edited dataset from the links above and place them in the project directory.
-4. Alternatively, if you want to run the web application:
+4. Download the .keras model file and the edited dataset from the links above and place them in the project directory.
+5. Alternatively, if you want to run the web application:
+   ```bash
    python app.py
