@@ -6,8 +6,8 @@ This repository contains the code and resources for my project.
 
 - **app.py**: Main application script
 - **code1.py**: Actual code for the project
-- **static/**: Contains static assets like images and styles
-- **templates/**: Contains HTML templates
+- **static**: Contains static assets like images and styles
+- **templates**: Contains HTML templates
 - **test.py**: Test script for the model
 
 ## Model and Dataset Files
